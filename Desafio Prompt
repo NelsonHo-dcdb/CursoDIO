@@ -1,0 +1,4 @@
+Quero que a IA gere uma lista de 8 desafios de matemática para professores de matemática, com o objetivo de selecionar os mais capazes para participar de um concurso a professor titular na universidade. Considere o seguinte contexto: olimpíada de matemática para mestres.
+Deve haver um cabeçalho explicando a proposta de discutir tudo que sabe de cada desafio de modo a ser compreensível a alunos do ensino médio. No caso dos problemas que foram solucionados, deverá explicar o passo-a-passo da resolução.
+O conteúdo deve ter formato de lista, cada item deve ter um resumo de até 3 linhas do problema, o nome do matemático que o formulou, o ano em que foi proposto, e o ano em que foi resolvido.
+A linguagem deve ser formal.
